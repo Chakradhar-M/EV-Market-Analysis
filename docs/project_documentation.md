@@ -203,8 +203,6 @@ Specifically, the objectives are to:
 
 #### `2. Identify the top 5 states with the highest penetration rate in 2-wheeler and 4-wheeler EV sales in FY 2024.`
 
-In FY 2024, the penetration rate of electric vehicles showed significant variation across Indian states for both 2-wheelers and 4-wheelers:
-
 > **2-Wheeler Segment:**
 <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/2Q1_Top5_States_with_the_highest_Penetration_Rate_in_2_wheeler.png?raw=true" alt="Bottom3 FY 2023" width="650"/>
 
@@ -223,10 +221,36 @@ In FY 2024, the penetration rate of electric vehicles showed significant variati
 
 #### 3. List the states with negative penetration (decline) in EV sales from 2022 to 2024.
 
-#### 4. What are the quarterly trends based on sales volume for the top 5 EV makers (4-wheelers) from 2022 to 2024?
+---
 
-#### 5. How do the EV sales and penetration rates in Delhi compare to Karnataka for 2024?
+#### `4. What are the quarterly trends based on sales volume for the top 5 EV makers (4-wheelers) from 2022 to 2024?`
 
+<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/4Q1_Quarterly_Sales_Trend_for_Top5_EV_Makers_4Wheelers.png?raw=true" alt="Bottom3 FY 2024" width="750"/>
+
+> **How the top 5 four-wheeler EV makers performed over the last three fiscal years:**
+
+- **Tata Motors** showed strong and steady growth in sales every year. It had the highest sales among all, ending with over **17K units in Q4 2024**.
+
+- **Mahindra & Mahindra** had a big jump in early 2024 with **over 10K units in Q1**, but sales dropped in the next quarters.
+
+- **MG Motor** grew well, especially in 2024. It doubled its sales from **Q1 to Q4**.
+
+- **Hyundai Motor** had slow but steady growth. Sales were much lower than others but increasing over time.
+
+- **BYD India** entered the market in 2022. It picked up pace quickly, crossing **400+ units per quarter** by 2024.
+
+
+---
+
+#### `5. How do the EV sales and penetration rates in Delhi compare to Karnataka for 2024?`
+
+<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/5Q1_EV_Sales_and_Penetration_Rate_by_State.png?raw=true" alt="Bottom3 FY 2024" width="500"/>
+
+- **Karnataka** sold **1.6 lakh EVs**, while **Delhi** sold **46.7K EVs** in FY 2024.
+- Despite Delhi being a major urban hub, **Karnataka** not only sold more EVs but also had a **higher EV penetration rate** of **10.18%**, compared to **7.71%** for Delhi.
+
+
+---
 #### 6. List down the compounded annual growth rate (CAGR) in 4-wheeler units for the top 5 makers from 2022 to 2024.
 
 #### 7. List down the top 10 states that had the highest compounded annual growth rate (CAGR) from 2022 to 2024 in total vehicles sold.
