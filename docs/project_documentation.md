@@ -251,7 +251,20 @@ Specifically, the objectives are to:
 
 
 ---
-#### 6. List down the compounded annual growth rate (CAGR) in 4-wheeler units for the top 5 makers from 2022 to 2024.
+
+#### `6. List down the compounded annual growth rate (CAGR) in  4-wheeler EV units for the top 5 makers from 2022 to 2024.`
+
+The data highlights that while legacy manufacturers like Tata Motors continue to lead in absolute volume, emerging players such as BYD India are expanding their footprint at a much faster rate, underscoring their increasing competitiveness in the 4-wheeler EV market.
+
+<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/6Q1_CAGR_of_top_5_4-wheeler_EV_makers_2022_2024.png?raw=true" alt="Bottom3 FY 2024" width="700"/>
+
+- **BYD India** recorded the highest CAGR at **5.67**, indicating rapid expansion and growing market presence in the 4-wheeler EV segment.
+- **Hyundai Motor** followed with a CAGR of **2.55**, reflecting consistent year-over-year growth.
+- **Mahindra & Mahindra** and **MG Motor** exhibited moderate growth with CAGRs of **1.40** and **1.31**, respectively.
+- **Tata Motors**, while maintaining the highest absolute sales volume, reported a relatively lower CAGR of **0.95**, suggesting a more stabilized growth pattern.
+
+
+---
 
 #### 7. List down the top 10 states that had the highest compounded annual growth rate (CAGR) from 2022 to 2024 in total vehicles sold.
 
