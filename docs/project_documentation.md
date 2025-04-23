@@ -166,30 +166,41 @@ Specifically, the objectives are to:
 ### Analysis & Insights 
 
 #### 1. List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.
-#### 1. List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.
 
 <table>
   <tr>
-    <td><strong>Top 3 Makers - FY 2023</strong></td>
-    <td><strong>Top 3 Makers - FY 2024</strong></td>
+    <td>
+      <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q1_Top3_EV_Makers_In_FY_2023.png?raw=true" alt="Top3 FY 2023" width="500"/>
+    </td>
+    <td>
+      <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q2_Top3_EV_Makers_In_FY_2024.png?raw=true" alt="Top3 FY 2024" width="500"/>
+    </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q1_Top3_EV_Makers_In_FY_2023.png?raw=true" alt="Top3 FY 2023" width="400"/>
+      <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q3_Bottom3_EV_Makers_In_FY_2023.png?raw=true" alt="Bottom3 FY 2023" width="500"/>
     </td>
     <td>
-      <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q2_Top3_EV_Makers_In_FY_2024.png?raw=true" alt="Top3 FY 2024" width="400"/>
+      <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q4_Bottom3_EV_Makers_In_FY_2024.png?raw=true" alt="Bottom3 FY 2024" width="500"/>
     </td>
   </tr>
 </table>
 
 
-<div align="left">
-  <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q1_Top3_EV_Makers_In_FY_2023.png?raw=true" alt="Top3_EV_Makers_In_FY_2023" width="500" height="400">
-</div>
-<div align="right">
-  <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q2_Top3_EV_Makers_In_FY_2024.png?raw=true" alt="Top3_EV_Makers_In_FY_2023" width="500" height="400">
-</div>
+- **OLA Electric** dominated the EV 2-wheeler market in both fiscal years.  
+  - In FY 2023, it led with **152,583** units sold.
+  - In FY 2024, it nearly **doubled** its sales, reaching **322,489** units.
+
+- **TVS** emerged as a strong contender in FY 2024 with **180,743** units, marking a significant jump in EV sales performance.
+
+- **Ather** also showed strong growth, making it to the top 3 in FY 2024 with **107,552** units.
+
+- Makers like **Jitendra**, **Being**, and **Pure EV** recorded the **lowest sales in FY 2023**, each selling fewer than **12,000 units**.
+
+- In FY 2024, **BattRE Electric**, **Revolt**, and **Kinetic Green** were the lowest performers, all selling **under 10,000 units**.
+
+---
+
 
 #### 2. Identify the top 5 states with the highest penetration rate in 2-wheeler and 4-wheeler EV sales in FY 2024.
 
