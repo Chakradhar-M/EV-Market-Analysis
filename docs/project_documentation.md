@@ -165,7 +165,7 @@ Specifically, the objectives are to:
 
 ### Analysis & Insights 
 
-#### 1. List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.
+#### `1. List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.`
 
 <table>
   <tr>
@@ -201,8 +201,25 @@ Specifically, the objectives are to:
 
 ---
 
+#### `2. Identify the top 5 states with the highest penetration rate in 2-wheeler and 4-wheeler EV sales in FY 2024.`
 
-#### 2. Identify the top 5 states with the highest penetration rate in 2-wheeler and 4-wheeler EV sales in FY 2024.
+In FY 2024, the penetration rate of electric vehicles showed significant variation across Indian states for both 2-wheelers and 4-wheelers:
+
+> **2-Wheeler Segment:**
+<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/2Q1_Top5_States_with_the_highest_Penetration_Rate_in_2_wheeler.png?raw=true" alt="Bottom3 FY 2023" width="650"/>
+
+  - **Goa** leads with the highest penetration rate at **~18%**, indicating a strong shift toward electric 2-wheelers.
+  - **Kerala** and **Karnataka** follow closely with **13.5%** and **11.6%** penetration, respectively.
+  - **Maharashtra** and **Delhi** also show solid adoption with rates above **9%**.
+  
+> **4-Wheeler Segment:**
+<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/2Q2_Top5_States_with_the_highest_Penetration_Rate_in_4_wheeler.png?raw=true" alt="Bottom3 FY 2024" width="650"/>
+
+  - **Kerala** again tops the chart at **~5.76%**, showing balanced adoption across both segments.
+  - **Chandigarh** and **Delhi** demonstrate relatively high penetration in the 4-wheeler category with over **4%** each.
+  - **Karnataka** and **Goa**, while strong in 2-wheelers, also maintain similar penetration in 4-wheelers (~4.25%).
+
+---
 
 #### 3. List the states with negative penetration (decline) in EV sales from 2022 to 2024.
 
