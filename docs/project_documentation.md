@@ -163,9 +163,33 @@ Specifically, the objectives are to:
 
 ---
 
-### Preliminary Research Questions
+### Analysis & Insights 
 
 #### 1. List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.
+#### 1. List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.
+
+<table>
+  <tr>
+    <td><strong>Top 3 Makers - FY 2023</strong></td>
+    <td><strong>Top 3 Makers - FY 2024</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q1_Top3_EV_Makers_In_FY_2023.png?raw=true" alt="Top3 FY 2023" width="400"/>
+    </td>
+    <td>
+      <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q2_Top3_EV_Makers_In_FY_2024.png?raw=true" alt="Top3 FY 2024" width="400"/>
+    </td>
+  </tr>
+</table>
+
+
+<div align="left">
+  <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q1_Top3_EV_Makers_In_FY_2023.png?raw=true" alt="Top3_EV_Makers_In_FY_2023" width="500" height="400">
+</div>
+<div align="right">
+  <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/1Q2_Top3_EV_Makers_In_FY_2024.png?raw=true" alt="Top3_EV_Makers_In_FY_2023" width="500" height="400">
+</div>
 
 #### 2. Identify the top 5 states with the highest penetration rate in 2-wheeler and 4-wheeler EV sales in FY 2024.
 
