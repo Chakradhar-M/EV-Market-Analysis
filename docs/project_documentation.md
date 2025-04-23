@@ -266,7 +266,17 @@ The data highlights that while legacy manufacturers like Tata Motors continue to
 
 ---
 
-#### 7. List down the top 10 states that had the highest compounded annual growth rate (CAGR) from 2022 to 2024 in total vehicles sold.
+#### `7. List down the top 10 states that had the highest compounded annual growth rate (CAGR) from 2022 to 2024 in total vehicles sold.`
+
+<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/7Q1_CAGR_of_Vehicle_Sales_Top_10_States_2022_2024).png?raw=true" alt="Bottom3 FY 2024" width="750"/>
+
+From 2022 to 2024, **Meghalaya** recorded the highest growth in total vehicle sales with a CAGR of **28.5%**, followed by **Goa (27.4%)** and **Karnataka (25.3%)**.
+
+Other states like **Delhi, Rajasthan, Gujarat, and Assam** also saw strong annual growth rates above **20%**, showing rising vehicle adoption across both urban and smaller states.
+
+
+
+---
 
 #### 8. What are the peak and low season months for EV sales based on the data from 2022 to 2024?
 
