@@ -281,6 +281,14 @@ Other states like **Delhi, Rajasthan, Gujarat, and Assam** also saw strong annua
 
 #### `8. What are the peak and low season months for EV sales based on the data from 2022 to 2024?`
 
+<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/8Q1_Monthly_EV_Sales_Heatmap_with_Yearly_&_Monthly_Totals.png?raw=true" alt="Bottom3 FY 2024" width="800"/>
+
+Based on the sales data from 2022 to 2024, **March** stands out as the peak month for EV sales, recording the highest numbers across all three years. Other high-performing months include November, February, and January, indicating strong sales momentum at the beginning and towards the end of the fiscal year.
+
+On the other hand, June consistently shows the lowest sales, followed by July, April, and May. These months reflect a slower phase, likely due to post-fiscal adjustments or seasonal trends.
+
+Understanding these patterns helps in planning campaigns, inventory, and promotions more strategically throughout the year.
+
 ---
 
 #### `9. What is the projected number of EV sales (including 2-wheelers and 4-wheelers) for the top 10 states by penetration rate in 2030, based on the compounded annual growth rate (CAGR) from previous years?`
