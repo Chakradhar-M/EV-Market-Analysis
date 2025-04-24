@@ -303,4 +303,30 @@ Other states like **Delhi, Rajasthan, Gujarat, and Assam** also saw strong annua
 
 #### `10. Estimate the revenue growth rate of 4-wheeler and 2-wheelers EVs in India for 2022 vs 2024 and 2023 vs 2024, assuming an average unit price.`
 
+| Vehicle Category | Average Price (INR) |
+|-----------------|------------------|
+| **2-Wheeler**   | 85,000           |
+| **4-Wheeler**   | 1,500,000        |
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/10Q1_EV_Revenue_Trends_by_Vehicle_Category_2022_2024.png?raw=true" alt="Revenue Growth of EVs" width="500"/>
+    </td>
+    <td>
+      <img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/10Q2_EV_Revenue_Growth_Rates_by_Vehicle_Category_2022_2024.png?raw=true" alt="Revenue Growth Rate of EVs" width="550"/>
+    </td>
+  </tr>
+</table>
+
+
+- **4-Wheelers** revenue jumped from ₹2,786 Cr in 2022 to ₹13,035 Cr in 2024 — a **368% growth**, with a strong **₹5,931 Cr** increase just from 2023 to 2024 (**+83%**).
+
+- **2-Wheelers** revenue grew from ₹2,147 Cr in 2022 to ₹7,928 Cr in 2024 — a **269% rise**, adding **₹1,741 Cr** over the past year (**+28%**).
+
+ **While both segments are expanding, **4-wheelers are driving higher revenue growth**, indicating rising demand for premium EVs.**
+
 ---
+
+
