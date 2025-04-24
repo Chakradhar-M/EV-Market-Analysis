@@ -219,7 +219,8 @@ Specifically, the objectives are to:
 
 ---
 
-#### 3. List the states with negative penetration (decline) in EV sales from 2022 to 2024.
+#### `3. List the states with negative penetration (decline) in EV sales from 2022 to 2024.`
+**Between 2022 and 2024, no states recorded a decline in EV penetration. This indicates a positive and consistent growth trend in EV adoption across all states during this period.**
 
 ---
 
@@ -278,10 +279,14 @@ Other states like **Delhi, Rajasthan, Gujarat, and Assam** also saw strong annua
 
 ---
 
-#### 8. What are the peak and low season months for EV sales based on the data from 2022 to 2024?
+#### `8. What are the peak and low season months for EV sales based on the data from 2022 to 2024?`
 
-#### 9. What is the projected number of EV sales (including 2-wheelers and 4-wheelers) for the top 10 states by penetration rate in 2030, based on the compounded annual growth rate (CAGR) from previous years?
+---
 
-#### 10. Estimate the revenue growth rate of 4-wheeler and 2-wheelers EVs in India for 2022 vs 2024 and 2023 vs 2024, assuming an average unit price.
+#### `9. What is the projected number of EV sales (including 2-wheelers and 4-wheelers) for the top 10 states by penetration rate in 2030, based on the compounded annual growth rate (CAGR) from previous years?`
+
+---
+
+#### `10. Estimate the revenue growth rate of 4-wheeler and 2-wheelers EVs in India for 2022 vs 2024 and 2023 vs 2024, assuming an average unit price.`
 
 ---
