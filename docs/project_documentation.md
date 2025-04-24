@@ -204,14 +204,14 @@ Specifically, the objectives are to:
 #### `2. Identify the top 5 states with the highest penetration rate in 2-wheeler and 4-wheeler EV sales in FY 2024.`
 
 > **2-Wheeler Segment:**
-<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/2Q1_Top5_States_with_the_highest_Penetration_Rate_in_2_wheeler.png?raw=true" alt="Bottom3 FY 2023" width="650"/>
+<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/2Q1_Top5_States_with_the_highest_Penetration_Rate_in_2_wheeler.png?raw=true" alt="Bottom3 FY 2023" width="700"/>
 
   - **Goa** leads with the highest penetration rate at **~18%**, indicating a strong shift toward electric 2-wheelers.
   - **Kerala** and **Karnataka** follow closely with **13.5%** and **11.6%** penetration, respectively.
   - **Maharashtra** and **Delhi** also show solid adoption with rates above **9%**.
   
 > **4-Wheeler Segment:**
-<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/2Q2_Top5_States_with_the_highest_Penetration_Rate_in_4_wheeler.png?raw=true" alt="Bottom3 FY 2024" width="650"/>
+<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/2Q2_Top5_States_with_the_highest_Penetration_Rate_in_4_wheeler.png?raw=true" alt="Bottom3 FY 2024" width="700"/>
 
   - **Kerala** again tops the chart at **~5.76%**, showing balanced adoption across both segments.
   - **Chandigarh** and **Delhi** demonstrate relatively high penetration in the 4-wheeler category with over **4%** each.
@@ -284,6 +284,20 @@ Other states like **Delhi, Rajasthan, Gujarat, and Assam** also saw strong annua
 ---
 
 #### `9. What is the projected number of EV sales (including 2-wheelers and 4-wheelers) for the top 10 states by penetration rate in 2030, based on the compounded annual growth rate (CAGR) from previous years?`
+
+> Using the **CAGR** from 2022 to 2024, the projected EV sales for 2030 highlight aggressive growth in several states:
+
+<img src="https://github.com/Chakradhar-M/EV-Market-Analysis/blob/main/resources/plots/9Q1_Projected_EV_Sales_in_2030.png?raw=true" alt="Bottom3 FY 2024" width="750"/>
+
+- **Kerala** and **Maharashtra** are projected to surpass **11 million** and **13 million** EV sales respectively by 2030, driven by strong adoption and consistent growth rates.
+- **Karnataka** is also expected to cross **8.3 million** sales, maintaining its position as a key EV market.
+- **Goa**, despite starting from a smaller base, shows the **highest growth trajectory**, with projected sales of over **2.4 million** EVs due to a CAGR of **1.46**.
+- **Chhattisgarh** and **Odisha** also show impressive projections, reaching **7.1 million** and **2.7 million** respectively, reflecting accelerating EV adoption in emerging markets.
+- **Chandigarh**, with the **highest CAGR (1.64)**, is projected to approach **1 million** EV sales.
+- **Delhi** and **Tamil Nadu**, despite already being strong EV adopters, are expected to reach **1–1.5 million** in projected sales, indicating steady yet moderate growth compared to others.
+
+ These projections underline a **nationwide shift towards electric mobility**, with both major and smaller states poised for substantial growth by 2030.
+
 
 ---
 
