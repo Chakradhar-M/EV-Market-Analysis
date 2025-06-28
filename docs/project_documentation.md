@@ -14,7 +14,6 @@
 ### 🌍 **Backgroound**  
 The global shift toward sustainable transportation has fueled rapid growth in the **electric vehicle (EV) market**. Countries like the US have seen significant adoption, with companies like **AtliQ Motors** capturing a strong foothold, **25% market share** in the EV/hybrid segment in North America.
 
-In contrast, **India’s EV adoption is still in its early stages**, presenting both challenges and opportunities for new entrants.
  
 As part of its international expansion, **AtliQ Motors** is exploring a launch of its bestselling EV models in India, where its market share currently stands at less than 2%. To make an informed decision, **Bruce Haryali**, Chief of AtliQ Motors India, has requested a detailed market analysis to understand the EV landscape in the country.
 
