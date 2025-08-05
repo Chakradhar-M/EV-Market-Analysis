@@ -38,8 +38,6 @@ Specifically, the objectives are to:
 |------------|----------|
 | <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/database.png?raw=true" width="20" style="vertical-align:middle;"> **Data Source** | 👉 [Click to View Data Source](https://codebasics.io/challenge/codebasics-resume-project-challenge/15) |
 | <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/kaggle.png?raw=true?raw=true" width="22" style="vertical-align:middle;"> **Kaggle Notebook** | 📊 [View Kaggle Notebook](#) |
-| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/youtube.png?raw=true" width="20" style="vertical-align:middle;"> **Project Presentation** | 🎬 [Watch Presentation](#) |
-| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/linkedin.png?raw=true" width="22" style="vertical-align:middle;"> **LinkedIn Post** | 🔗 [Read on LinkedIn](#) |
 
 📌 **Tip:** Right-click or Ctrl + Click to open links in a new tab.
 
