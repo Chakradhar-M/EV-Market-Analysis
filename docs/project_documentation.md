@@ -328,9 +328,9 @@ Understanding these patterns helps in planning campaigns, inventory, and promoti
 </table>
 
 
-- **4-Wheelers** revenue jumped from ₹2,786 Cr in 2022 to ₹13,035 Cr in 2024 — a **368% growth**, with a strong **₹5,931 Cr** increase just from 2023 to 2024 (**+83%**).
+- **4-Wheelers** revenue jumped from ₹2,786 Cr in 2022 to ₹13,035 Cr in 2024, a **368% growth**, with a strong **₹5,931 Cr** increase just from 2023 to 2024 (**+83%**).
 
-- **2-Wheelers** revenue grew from ₹2,147 Cr in 2022 to ₹7,928 Cr in 2024 — a **269% rise**, adding **₹1,741 Cr** over the past year (**+28%**).
+- **2-Wheelers** revenue grew from ₹2,147 Cr in 2022 to ₹7,928 Cr in 2024, a **269% rise**, adding **₹1,741 Cr** over the past year (**+28%**).
 
  **While both segments are expanding, **4-wheelers are driving higher revenue growth**, indicating rising demand for premium EVs.**
 
