@@ -3,7 +3,6 @@
 <h1 align="center">🔌 EV Market Analysis in India</h1>
 
 <div style="display: flex; justify-content: space-between; padding: 10px; background-color: #f4f4f4; border-radius: 8px;">
-    <h4>📅 Date: April 2025</h4>
     <h4>🛠️ Tools Used: Python, Pandas, Seaborn</h4>
     <h4>🏷️ Domain: Automotive</h4>
 </div>
